@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffeer</string>
+    <string name="addDrink">Add a drink</string>
+    <string name="deleteDrinks">Clear data</string>
+    <string name="drinkText">Añade una bebida</string>
+    <string name="plusBeer">+ beer</string>
+    <string name="plusCoffee">+ coffee</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
